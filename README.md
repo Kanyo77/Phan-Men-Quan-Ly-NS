@@ -2,7 +2,7 @@
 
 Đây là một phần mềm desktop giúp quản lý toàn bộ quy trình nhân sự của một doanh nghiệp, từ lúc ứng viên đăng ký đến khi nhân viên kết thúc làm việc. Phần mềm được phát triển với ngôn ngữ C# trên nền WinForms và sử dụng cơ sở dữ liệu PostgreSQL. Hệ thống hỗ trợ quản lý thông tin nhân sự, chấm công, tính lương và in báo cáo.
 
-!SScreenshot3](https://github.com/Kanyo77/Phan-Men-Quan-Ly-NS/blob/90d7eec900d5e8736d76a9d47d05d362b04ffe7a/Screenshot3.png)
+![Screenshot6](https://github.com/Kanyo77/Phan-Men-Quan-Ly-NS/blob/90d7eec900d5e8736d76a9d47d05d362b04ffe7a/Screenshot3.png)
 
 ## 🧩 Các tính năng chính
 
@@ -53,9 +53,13 @@
 
 ## 📷 Một số giao diện
 ![Screenshot1](https://github.com/Kanyo77/Phan-Men-Quan-Ly-NS/blob/90d7eec900d5e8736d76a9d47d05d362b04ffe7a/Screenshot1.png)
+
 ![Screenshot2](https://github.com/Kanyo77/Phan-Men-Quan-Ly-NS/blob/90d7eec900d5e8736d76a9d47d05d362b04ffe7a/Screenshot2.png)
+
 ![Screenshot6](https://github.com/Kanyo77/Phan-Men-Quan-Ly-NS/blob/90d7eec900d5e8736d76a9d47d05d362b04ffe7a/Screenshot6.png)
+
 ![Screenshot4](https://github.com/Kanyo77/Phan-Men-Quan-Ly-NS/blob/90d7eec900d5e8736d76a9d47d05d362b04ffe7a/Screenshot4.png)
+
 ![Screenshot5](https://github.com/Kanyo77/Phan-Men-Quan-Ly-NS/blob/90d7eec900d5e8736d76a9d47d05d362b04ffe7a/Screenshot5.png)
 
 ---
